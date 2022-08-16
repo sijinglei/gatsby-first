@@ -36,7 +36,7 @@ const links = [
 const samplePageLinks = [
   {
     text: "Scott",
-    url: "/md/1.md",
+    url: "./md/1.md",
     badge: false,
     description:
       "A simple example of linking to another page within a Gatsby site",
