@@ -47,7 +47,7 @@ const samplePageLinks = [
 ]
 
 const moreLinks = [
-  { text: "Scott", url: "./md/1.md" },
+  { text: "Scott", url: "/md/1.md" },
   {
     text: "Documentation",
     url: "https://gatsbyjs.com/docs/",
