@@ -35,8 +35,8 @@ const links = [
 
 const samplePageLinks = [
   {
-    text: "Scott",
-    url: "./md/1.md",
+    text: "page2",
+    url: "page-2",
     badge: false,
     description:
       "A simple example of linking to another page within a Gatsby site",
@@ -47,7 +47,7 @@ const samplePageLinks = [
 ]
 
 const moreLinks = [
-  { text: "Join us on Discord", url: "https://gatsby.dev/discord" },
+  { text: "Scott", url: "./md/1.md" },
   {
     text: "Documentation",
     url: "https://gatsbyjs.com/docs/",
